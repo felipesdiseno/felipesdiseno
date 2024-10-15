@@ -50,4 +50,4 @@ Busco seguir adquiriendo experiencia en el desarrollo web y colaborar en un equi
 - Figma (para diseño y prototipado)
 
 Correo: felipe.sdiseno@gmail.com
-Linkedin: https://www.linkedin.com/in/felipe-frontdev/
+    Linkedin: https://www.linkedin.com/in/felipe-frontdev/
