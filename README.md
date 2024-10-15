@@ -48,6 +48,6 @@ Busco seguir adquiriendo experiencia en el desarrollo web y colaborar en un equi
 - MongoDB
 - Git
 - Figma (para diseño y prototipado)
-
+Ubicación: Palmira-valle, Colombia.
 Correo: felipe.sdiseno@gmail.com
     Linkedin: https://www.linkedin.com/in/felipe-frontdev/
