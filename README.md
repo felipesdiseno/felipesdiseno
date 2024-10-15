@@ -49,4 +49,4 @@ Busco seguir adquiriendo experiencia en el desarrollo web y colaborar en un equi
 - Git
 - Figma (para diseño y prototipado)
 
-correo: (felipe.sdiseno@gmail.com)[Gmail]
+correo: felipe.sdiseno@gmail.com
