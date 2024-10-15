@@ -48,3 +48,5 @@ Busco seguir adquiriendo experiencia en el desarrollo web y colaborar en un equi
 - MongoDB
 - Git
 - Figma (para diseño y prototipado)
+
+correo: [felipe.sdiseno@gmail.com](Gmail)
