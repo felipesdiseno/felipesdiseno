@@ -1,50 +1,71 @@
-# ¡Hola Mundo, Aquí Felipe! 👋
+# Hi there, I'm Felipe! 👋
 
-## Sobre mí
+## Frontend Developer | Growing into Full Stack Development
 
-Soy un **Desarrollador FullStack**, especializado en FrontEnd, con una formación única que combina diseño industrial y tecnología.
+I'm a Frontend Developer with professional experience building web applications, primarily using React, TypeScript, and modern JavaScript technologies.
 
-### Mi Viaje en la Programación
+My background in Industrial Design gives me a different perspective on software development, combining technical problem-solving, visual thinking, and a strong focus on user experience.
 
-- 🎓 Mis primeros encuentros con la programación fueron en clases de sistemas en la secundaria, desarrollando lógica en Visual Basic.
-- 🎨 Aunque mi camino profesional me llevó inicialmente al diseño industrial, la curiosidad por el mundo tech siempre estuvo presente.
-- 🔧 En mi carrera como diseñador industrial, la programación jugó un papel importante en áreas como:
-  - Programación en máquinas CNC
-  - Automatización de procesos
-  - Modelado 3D
+🚀 About Me
 
-Esto me demostró que la tecnología y el diseño están intrínsecamente conectados.
+💻 Almost 2 years of professional experience in Frontend Development.
 
-## Mi Desarrollo como FrontEnd
+🎨 Background in Industrial Design, with experience in 3D modeling, CNC programming, and process automation.
 
-Mi inmersión completa en el desarrollo FrontEnd comenzó con la inscripción a un bootcamp, donde:
+⚛️ Specialized in building web interfaces with React, Next.js, and TypeScript.
 
-- 💻 Profundicé en las bases de la programación: HTML, CSS y JavaScript.
-- 🚀 Me sentí más atraído por el desarrollo FrontEnd debido a mi naturaleza visual.
-- 🔍 Sin desconocer la importancia del BackEnd, me especialicé en frameworks como React, Next.js y Tailwind.
+🔍 Interested in application architecture, performance, user experience, and clean code.
 
-### Experiencia en el Bootcamp
+🌱 Currently expanding my skills in Backend Development, APIs, databases, and Full Stack architecture.
 
-- 🛠️ Realicé proyectos que consolidan mis conocimientos en desarrollo web.
-- 🤝 Desarrollé habilidades blandas a través del trabajo en equipo.
-- 👨‍🏫 Fungí como Teacher Assistant, reforzando mis conocimientos y habilidades de comunicación.
+🤝 I enjoy collaborating with teams, solving problems, and continuously learning.
 
-## Objetivos Profesionales
+🛠️ Technologies & Tools
 
-Busco seguir adquiriendo experiencia en el desarrollo web y colaborar en un equipo dinámico para crecer profesionalmente.
+Frontend
 
-## Tecnologías y Habilidades
+JavaScript (ES6+)
 
-- JavaScript
-- TypeScript
-- HTML y CSS
-- Bootstrap
-- React.js
-- Node.js
-- Express.js
-- Next.js
-- Tailwind
-- PostgreSQL
-- MongoDB
-- Git
-- Figma (para diseño y prototipado)
+TypeScript
+
+React.js
+
+Next.js
+
+HTML5 & CSS3
+
+Tailwind CSS
+
+Bootstrap
+
+Backend & Databases
+
+Node.js
+
+Express.js
+
+PostgreSQL
+
+MongoDB
+
+Tools & Design
+
+Git & GitHub
+
+Figma
+
+Docker
+
+🎯 What I'm Currently Working On
+
+Strengthening my Backend development skills.
+
+Building Full Stack applications.
+
+Improving frontend architecture and code quality.
+
+Creating personal projects and contributing to my GitHub portfolio.
+
+📫 Let's Connect!
+
+I'm always interested in connecting with other developers, sharing ideas, and exploring new opportunities.
